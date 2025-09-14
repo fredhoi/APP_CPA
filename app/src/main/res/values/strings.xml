@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Resume Builder</string>
+    <string name="resume_builder">Resume Builder</string>
+    <string name="my_resumes">My Resumes</string>
+    <string name="new_resume">New Resume</string>
+    <string name="edit">Edit</string>
+    <string name="preview">Preview</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="basic_information">Basic Information</string>
+    <string name="education">Education</string>
+    <string name="experience">Experience</string>
+    <string name="skills">Skills</string>
+    <string name="awards">Awards</string>
+    <string name="activities">Activities</string>
+    <string name="generate_pdf">Generate PDF</string>
+    <string name="no_resumes_yet">No resumes yet. Create your first resume!</string>
+</resources>

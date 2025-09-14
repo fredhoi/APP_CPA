@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.macau.resumebuilder.app-mergeDebugResources-69:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fred\\.gradle\\caches\\8.13\\transforms\\1cfdd93d07b9908ca146b13533be72ee\\transformed\\material-1.11.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}

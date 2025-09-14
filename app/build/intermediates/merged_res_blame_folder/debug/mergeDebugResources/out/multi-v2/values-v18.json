@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.macau.resumebuilder.app-mergeDebugResources-69:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fred\\.gradle\\caches\\8.13\\transforms\\ef3c59bb3514b348a3cab6671e8db322\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

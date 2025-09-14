@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color md_theme_onPrimary
+color md_theme_onPrimaryContainer
+color md_theme_onSecondary
+color md_theme_primary
+color md_theme_primaryContainer
+color md_theme_secondary
+color md_theme_secondaryContainer
+string activities
+string app_name
+string awards
+string basic_information
+string cancel
+string delete
+string edit
+string education
+string experience
+string generate_pdf
+string my_resumes
+string new_resume
+string no_resumes_yet
+string preview
+string resume_builder
+string save
+string skills
+style Theme.ResumeBuilder
+xml backup_rules
+xml data_extraction_rules

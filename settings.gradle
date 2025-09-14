@@ -5,16 +5,13 @@ pluginManagement {
         gradlePluginPortal()
     }
 }
-
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
-        // 添加ONNX Runtime倉庫
-        maven { url "https://oss.sonatype.org/content/repositories/snapshots/" }
     }
 }
 
-rootProject.name = "CPAInterview"
-include ':app' 
+rootProject.name = "Resume Builder"
+include ":app"

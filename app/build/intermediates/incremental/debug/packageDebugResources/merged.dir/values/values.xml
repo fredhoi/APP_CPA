@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="md_theme_onPrimary">#FFFFFFFF</color>
+    <color name="md_theme_onPrimaryContainer">#FFFFFFFF</color>
+    <color name="md_theme_onSecondary">#FF000000</color>
+    <color name="md_theme_primary">#FF6200EE</color>
+    <color name="md_theme_primaryContainer">#FF3700B3</color>
+    <color name="md_theme_secondary">#FF03DAC6</color>
+    <color name="md_theme_secondaryContainer">#FF018786</color>
+    <string name="activities">Activities</string>
+    <string name="app_name">Resume Builder</string>
+    <string name="awards">Awards</string>
+    <string name="basic_information">Basic Information</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="education">Education</string>
+    <string name="experience">Experience</string>
+    <string name="generate_pdf">Generate PDF</string>
+    <string name="my_resumes">My Resumes</string>
+    <string name="new_resume">New Resume</string>
+    <string name="no_resumes_yet">No resumes yet. Create your first resume!</string>
+    <string name="preview">Preview</string>
+    <string name="resume_builder">Resume Builder</string>
+    <string name="save">Save</string>
+    <string name="skills">Skills</string>
+    <style name="Theme.ResumeBuilder" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        <item name="colorPrimary">@color/md_theme_primary</item>
+        <item name="colorPrimaryDark">@color/md_theme_primaryContainer</item>
+        <item name="colorAccent">@color/md_theme_secondary</item>
+        
+        
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        
+        
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">true</item>
+    </style>
+</resources>
